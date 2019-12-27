@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetrospectiveApi", "RetrospectiveApi.csproj", "{BB52D1B3-7DC2-4DFE-A566-D5837B1AC65D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetrospectiveApiTest", "..\RetrospectiveApiTest\RetrospectiveApiTest.csproj", "{1124B390-F698-476C-9225-E7DC27C67079}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB52D1B3-7DC2-4DFE-A566-D5837B1AC65D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB52D1B3-7DC2-4DFE-A566-D5837B1AC65D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB52D1B3-7DC2-4DFE-A566-D5837B1AC65D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB52D1B3-7DC2-4DFE-A566-D5837B1AC65D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1124B390-F698-476C-9225-E7DC27C67079}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1124B390-F698-476C-9225-E7DC27C67079}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1124B390-F698-476C-9225-E7DC27C67079}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1124B390-F698-476C-9225-E7DC27C67079}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E5EB248-A7D4-4B71-A919-3AFC859AF3CB}
+	EndGlobalSection
+EndGlobal
