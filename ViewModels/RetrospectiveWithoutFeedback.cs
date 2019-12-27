@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace RetrospectiveApi.ViewModels
 {
-    public class FeedbackViewModel
+    public class RetrospectiveWithoutFeedback
     {
         public string Name { get; set; }
-        public string Body { get; set; }
-        public string Types { get; set; }
+        public string Summary { get; set; }
+        public DateTime Date { get; set; }
+        public string Participants { get; set; }
     }
 }
